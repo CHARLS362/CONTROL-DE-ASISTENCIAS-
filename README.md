@@ -1,2 +1,16 @@
-# CONTROL-DE-ASISTENCIAS-
-es un proyecto desarrollado con flutter en lenguaje dart , haciendo uso de sqflite para el almacenamiento local , en los posteriores dias estare subiendo e implementando nuevas funcionalidades para el proyecto  de desarrollo de software y proximamente lanzarlo en la play store 
+# miapp
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
